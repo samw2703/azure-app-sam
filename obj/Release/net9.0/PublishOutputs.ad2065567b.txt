@@ -1,0 +1,13 @@
+C:\Informal\Projects\azure-app-sam\bin\Release\net9.0\publish\azure-app-sam.exe
+C:\Informal\Projects\azure-app-sam\bin\Release\net9.0\publish\publish\web.config
+C:\Informal\Projects\azure-app-sam\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Informal\Projects\azure-app-sam\bin\Release\net9.0\publish\appsettings.json
+C:\Informal\Projects\azure-app-sam\bin\Release\net9.0\publish\publish\appsettings.Development.json
+C:\Informal\Projects\azure-app-sam\bin\Release\net9.0\publish\publish\appsettings.json
+C:\Informal\Projects\azure-app-sam\bin\Release\net9.0\publish\publish\azure-app-sam.deps.json
+C:\Informal\Projects\azure-app-sam\bin\Release\net9.0\publish\publish\azure-app-sam.runtimeconfig.json
+C:\Informal\Projects\azure-app-sam\bin\Release\net9.0\publish\publish\azure-app-sam.staticwebassets.endpoints.json
+C:\Informal\Projects\azure-app-sam\bin\Release\net9.0\publish\azure-app-sam.dll
+C:\Informal\Projects\azure-app-sam\bin\Release\net9.0\publish\azure-app-sam.deps.json
+C:\Informal\Projects\azure-app-sam\bin\Release\net9.0\publish\azure-app-sam.runtimeconfig.json
+C:\Informal\Projects\azure-app-sam\bin\Release\net9.0\publish\azure-app-sam.pdb

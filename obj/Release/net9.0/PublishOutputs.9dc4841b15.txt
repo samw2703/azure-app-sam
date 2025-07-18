@@ -1,0 +1,7 @@
+C:\Informal\Projects\azure-app-sam\publish\azure-app-sam.exe
+C:\Informal\Projects\azure-app-sam\publish\appsettings.Development.json
+C:\Informal\Projects\azure-app-sam\publish\appsettings.json
+C:\Informal\Projects\azure-app-sam\publish\azure-app-sam.dll
+C:\Informal\Projects\azure-app-sam\publish\azure-app-sam.deps.json
+C:\Informal\Projects\azure-app-sam\publish\azure-app-sam.runtimeconfig.json
+C:\Informal\Projects\azure-app-sam\publish\azure-app-sam.pdb
